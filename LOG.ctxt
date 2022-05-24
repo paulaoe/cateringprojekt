@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LOG
+comment0.text=\r\n\ Verwaltet\ die\ Eintr\u00E4ge\ in\ die\ Logdatei.\r\n\ \r\n\ @author\ Theresa\ Reschauer\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=LOG()
+comment2.params=
+comment2.target=void\ Schliessen()
+comment2.text=\r\n\ Schliesst\ die\ Logdatei.\r\n
+comment3.params=text
+comment3.target=void\ FehlermeldungEmpfangen(java.lang.String)
+comment3.text=\r\n\ Fehlermeldungen\ beim\ Ausf\u00FChren\ von\ Aktionen\r\n
+comment4.params=text
+comment4.target=void\ LogeintragEmpfangen(java.lang.String)
+comment4.text=\r\n\ Aktionslog\ f\u00FCr\ den\ Ablauf\r\n
+numComments=5

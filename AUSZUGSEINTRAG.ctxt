@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AUSZUGSEINTRAG
+comment0.text=\r\n\ Enth\u00E4lt\ die\ Daten\ f\u00FCr\ die\ \u00DCbersicht\ zu\ den\ gew\u00E4hlten\ Produkte.\r\n\ \r\n\ @author\ \ \r\n\ @version\ 1.0\r\n
+comment1.params=vorname\ nachname\ gMo\ gDi\ gMi\ gDo\ gFr
+comment1.target=AUSZUGSEINTRAG(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Besetzt\ eines\ Datensatzes.\r\n
+comment2.params=
+comment2.target=java.lang.String[]\ GibDatensatz()
+comment2.text=\r\n\ Gib\ einen\ Datensatz\ zur\u00FCck\ -\ Aufbau\:\ Vorname,\ Nachname,\ gMo,\ gDi,\ gMi,\ gDo,\ gFr\r\n\ @return\ laufende\ Nummer\ des\ Auszugs\r\n
+numComments=3

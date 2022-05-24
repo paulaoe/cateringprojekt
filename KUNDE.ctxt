@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KUNDE
+comment0.text=\r\n\ Beschreibt\ die\ Kunden\ der\ Bank.\r\n\ \r\n\ @author\ Albert\ Wiedemann\ \r\n\ @version\ 1.0\r\n
+comment1.params=n\ p
+comment1.target=KUNDE(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Belegt\ name\ und\ pin\ der\ Person\r\n\ @param\ n\ Name\ der\ neuen\ Person\r\n\ @param\ p\ PIN\ der\ neuen\ Person\r\n
+numComments=2

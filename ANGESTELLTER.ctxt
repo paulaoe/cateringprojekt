@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ANGESTELLTER
+comment0.text=\r\n\ Beschreibt\ die\ Angestellten\ des\ Cateringunternehmens.\r\n\ \r\n\ @author\ \r\n\ @version\ 1.0\r\n
+comment1.params=n\ p\ b
+comment1.target=ANGESTELLTER(java.lang.String,\ java.lang.String,\ CATERER)
+comment1.text=\r\n\ Belegt\ name\ und\ pin\ der\ Person\r\n\ @param\ n\ Name\ der\ neuen\ Person\r\n\ @param\ p\ PIN\ der\ neuen\ Person\r\n\ @param\ b\ Bank\ des\ Angestellten\r\n
+comment2.params=name
+comment2.target=boolean\ KundeWaehlen(java.lang.String)
+comment2.text=\r\n\ W\u00E4hlt\ den\ angegebenen\ Kunden\ als\ aktuellen\ Kunden.\r\n\ @param\ name\ Name\ des\ zu\ w\u00E4hlenden\ Kunden.\r\n\ @return\ true,\ wenn\ der\ Kunde\ existiert.\r\n
+comment3.params=
+comment3.target=KUNDE\ AktkundeGeben()
+comment3.text=\r\n\ Meldet\ den\ aktuellen\ Kunden.\r\n\ @return\ name\ Name\ des\ Kunden\r\n
+comment4.params=name\ pin
+comment4.target=boolean\ NeuenAngestelltenEinrichten(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Tr\u00E4gt\ einen\ neuen\ Angestellten\ ein.\r\n\ @param\ name\ Name\ des\ neuen\ Angestellten.\r\n\ @param\ pin\ PIN\ des\ neuen\ Angestellten.\r\n\ @return\ true,\ wenn\ der\ Angestellte\ eingerichtet\ werden\ konnte.\r\n
+numComments=5

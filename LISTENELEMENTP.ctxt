@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LISTENELEMENTP
+comment0.text=\r\n\ Allgemeines\ Element\ einer\ Personenliste\r\n\ \r\n\ @author\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=LISTENELEMENTP()
+comment1.text=\r\n\ Der\ Konstruktor\ ist\ nur\ der\ vollst\u00E4ndigkeit\ halber\ angegeben.\r\n
+comment2.params=person
+comment2.target=LISTENELEMENTP\ Einfuegen(PERSON)
+comment2.text=\r\n\ F\u00FCgt\ eine\ Person\ in\ die\ nach\ Namen\ sortierte\ Liste\ ein.\r\n\ @param\ person\ Referenz\ auf\ die\ einzuf\u00FCgende.\r\n\ @return\ (neues)\ Nachfolgeelement\ des\ Aufrufers.\r\n
+comment3.params=person
+comment3.target=LISTENELEMENTP\ Loeschen(PERSON)
+comment3.text=\r\n\ L\u00F6scht\ das\ angegebene\ Datenlement\ aus\ der\ Liste.\r\n\ Nutzt\ die\ Sortierung\ der\ Liste\ aus.\r\n\ @param\ person\ Referenz\ auf\ die\ zu\ l\u00F6schende\ Person.\r\n\ @return\ (neues)\ Nachfolgeelement\ des\ Aufrufers.\r\n
+comment4.params=name
+comment4.target=PERSON\ Suchen(java.lang.String)
+comment4.text=\r\n\ Sucht\ die\ angegebene\ Person.\r\n\ Nutzt\ die\ Sortierung\ der\ Liste\ aus.\r\n\ @param\ name\ Name\ der\ zu\ suchenden\ Person.\r\n\ @return\ Referenz\ auf\ die\ Person\ oder\ null.\r\n
+comment5.params=derNicht
+comment5.target=int\ Zaehlen(java.lang.String)
+comment5.text=\r\n\ Z\u00E4hlt\ die\ Elemente\ der\ Liste.\r\n\ @param\ derNicht\ wird\ bei\ der\ Z\u00E4hlung\ \u00FCbergangen.\r\n\ @return\ Anzahl\ der\ Mitglieder\ der\ Liste.\r\n
+comment6.params=derNicht\ ergebnis\ pos
+comment6.target=void\ NamenEintragen(java.lang.String,\ java.lang.String[],\ int)
+comment6.text=\r\n\ Tr\u00E4gt\ die\ Namen\ in\ das\ Feld\ ein.\r\n\ @param\ derNicht\ wird\ beim\ Eintrag\ \u00FCbergangen.\r\n\ @param\ ergebnis\ Referenz\ auf\ das\ Feld\ mit\ den\ gefundenen\ Daten.\r\n\ @param\ pos\ Index,\ auf\ dem\ das\ n\u00E4chste\ Element\ eingetragen\ werden\ soll.\r\n
+numComments=7

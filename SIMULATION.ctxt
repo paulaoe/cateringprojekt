@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SIMULATION
+comment0.text=\r\n\ Baut\ die\ Simulation\ auf.\r\n\ \r\n\ @author\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SIMULATION()
+comment1.text=\r\n\ Legt\ die\ zentralen\ Objekte\ an\ und\ verkn\u00FCpft\ sie.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Startmethode\r\n\ @param\ ags\ Kommandozeilenargumente\r\n
+numComments=3

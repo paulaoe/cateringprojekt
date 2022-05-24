@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MELDUNGSBEOBACHTER
+comment0.text=\r\n\ Beschreibt\ den\ Beobachter\ von\ Meldungen.\r\n\ \r\n\ @author\ \ \r\n\ @version\ 1.0\r\n
+comment1.params=text
+comment1.target=void\ FehlermeldungEmpfangen(java.lang.String)
+comment1.text=\r\n\ Fehlermeldungen\ beim\ Ausf\u00FChren\ von\ Aktionen\r\n
+comment2.params=text
+comment2.target=void\ LogeintragEmpfangen(java.lang.String)
+comment2.text=\r\n\ Aktionslog\ f\u00FCr\ den\ Ablauf\r\n
+numComments=3

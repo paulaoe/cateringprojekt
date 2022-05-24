@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PERSON
+comment0.text=\r\n\ Oberklasse\ f\u00FCr\ alle\ Personen.\r\n\ \r\n\ @author\ \ \r\n\ @version\ 1.0\r\n
+comment1.params=b\ p
+comment1.target=PERSON(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Belegt\ benutzername\ und\ pin\ der\ Person\r\n\ @param\ b\ Benutzername\ der\ neuen\ Person\r\n\ @param\ p\ PIN\ der\ neuen\ Person\r\n
+comment2.params=
+comment2.target=java.lang.String\ PinGeben()
+comment2.text=\r\n\ Gibt\ die\ Pin\ des\ Kunden\ zur\u00FCck\r\n\ @return\ PIN\ des\ Kunden\r\n
+comment3.params=
+comment3.target=java.lang.String\ NameGeben()
+comment3.text=\r\n\ Gibt\ den\ Namen\ des\ Kunden\ zur\u00FCck\r\n\ @return\ Name\ des\ Kunden\r\n
+comment4.params=wort
+comment4.target=void\ PinSetzen(java.lang.String)
+comment4.text=\r\n\ Setzt\ eine\ neues\ Passwort\ f\u00FCr\ den\ Kunden.\r\n\ @param\ neuesPasswort\ das\ neue\ Passwort\r\n
+numComments=5

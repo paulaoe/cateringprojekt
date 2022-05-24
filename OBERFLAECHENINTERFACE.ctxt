@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OBERFLAECHENINTERFACE
+comment0.text=\r\n\ Beschreibt\ die\ Sicht\ des\ Kontrollers\ auf\ die\ Oberfl\u00E4che.\r\n\ \r\n\ @author\ \r\n\ @version\ 1.0\r\n
+comment1.params=status
+comment1.target=void\ StatusSetzen(OBERFLAECHENINTERFACE.Status)
+comment1.text=\r\n\ Setzt\ die\ Oberfl\u00E4che\ auf\ den\ angegebenen\ Status.\r\n\ @param\ status\ der\ neue\ Status\ der\ Oberfl\u00E4che\r\n
+comment2.params=text
+comment2.target=void\ StatusmeldungSetzen(java.lang.String)
+comment2.text=\r\n\ Statusanzeige\ besetzen\r\n\ @param\ text\ anzuzeigender\ Statustext\r\n
+comment3.params=text
+comment3.target=void\ FehlermeldungAnzeigen(java.lang.String)
+comment3.text=\r\n\ Fehlermeldungen\ beim\ Ausf\u00FChren\ von\ Aktionen\ anzeigen\r\n\ @param\ text\ anzuzeigende\ Fehlermeldung\r\n
+numComments=4

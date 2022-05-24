@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PERSONENLISTE
+comment0.text=\r\n\ Verwaltet\ Listen\ von\ PERSONEN.\r\n\ \r\n\ @author\ \ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=PERSONENLISTE()
+comment1.text=\r\n\ Erzeugt\ eine\ leere\ Liste\r\n
+comment2.params=person
+comment2.target=void\ Einfuegen(PERSON)
+comment2.text=\r\n\ F\u00FCgt\ die\ angegebene\ Person\ in\ die\ Liste\ ein.\r\n\ @param\ person\ die\ einzuf\u00FCgende\ Person.\r\n
+comment3.params=name
+comment3.target=PERSON\ Suchen(java.lang.String)
+comment3.text=\r\n\ Sucht\ die\ Person\ mit\ dem\ angegebenen\ Namen.\r\n\ @param\ name\ der\ Name\ der\ zu\ suchenden\ Person\r\n\ @return\ Referenz\ auf\ die\ Person\ oder\ null.\r\n
+comment4.params=person
+comment4.target=void\ Loeschen(PERSON)
+comment4.text=\r\n\ L\u00F6scht\ die\ angegebene\ Person\ aus\ der\ Liste.\r\n\ @param\ person\ die\ zu\ l\u00F6schende\ Person.\r\n
+comment5.params=derNicht
+comment5.target=java.lang.String[]\ PersonennamenGeben(PERSON)
+comment5.text=\r\n\ Meldet\ die\ Namen\ aller\ Pesonen\ in\ der\ Liste.\r\n\ @param\ derNicht\ diese\ Person\ kommt\ nicht\ in\ die\ Liste.\r\n\ @return\ Feld\ mit\ den\ Namen\ der\ Personen.\r\n
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MELDUNGSERZEUGER
+comment0.text=\r\n\ Beschreibt\ die\ Produzenten\ von\ Meldungen.\r\n\ \r\n\ @author\ \r\n\ @version\ 1.0\r\n
+comment1.params=beobachter
+comment1.target=void\ Registrieren(MELDUNGSBEOBACHTER)
+comment1.text=\r\n\ Registriert\ einen\ Beobachter\ beim\ Produzenten.\r\n
+comment2.params=beobachter
+comment2.target=void\ Abmelden(MELDUNGSBEOBACHTER)
+comment2.text=\r\n\ Meldet\ einen\ Beobachter\ beim\ Produzenten\ ab.\r\n
+numComments=3
